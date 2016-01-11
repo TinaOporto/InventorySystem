@@ -1,0 +1,13 @@
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\metroframework.design.dll
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\metroframework.dll
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\OJT\Desktop\MainProject\LoginForm\LoginForm\obj\Debug\LoginForm.MainForm.resources
